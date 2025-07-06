@@ -1,0 +1,12 @@
+name: Dummy CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dummy step
+        run: echo "This is a dummy CI to trigger push and pull_request webhooks."
