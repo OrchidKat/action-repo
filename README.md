@@ -1,3 +1,3 @@
 # action-repo
 
-This repo is used to trigger GitHub webhook events for tttteaasting.
+This repo is used to triagger GitHub webhook events for tttteaasting.
